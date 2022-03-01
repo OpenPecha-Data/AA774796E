@@ -1,0 +1,58 @@
+segment_sources:
+  P31DC8631:
+    type: origin_type
+    relation: translation
+    language: en
+  P75882287:
+    type: origin_type
+    relation: translation
+    language: es
+  P3B592C54:
+    type: origin_type
+    relation: translation
+    language: fr
+  P496C551A:
+    type: origin_type
+    relation: translation
+    language: nl
+  PB82BC254:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cb10eeb7e695449788e05c823495b00d:
+    P31DC8631: 1f4521baf0f74978a424a11b8d40dcff
+    P75882287: 5344b53f79554ce5aba9bf56785b0b68
+    P3B592C54: b4be071aae584e05b318b791b20de8c4
+    P496C551A: f9f27d3bac484d95921c4a9b1fdda25d
+    PB82BC254: 54aba24e761b462fafcab286caa21cc8
+  2b82bc092c20478b97fc81e922c2bd55:
+    P31DC8631: 0bc12efe118c41dca6995e57db620520
+    P75882287: f9a9f6bf33024cbda6d8727578f8f627
+    P3B592C54: 880e4e8c908648a286dc326d13849a4c
+    P496C551A: 47cfd0f6a08e45e5b8d5ee41e43454ac
+    PB82BC254: c4a79ed64144400cacc63b12777b7270
+  86b3285735164cd4945ff9f1f1faa758:
+    P31DC8631: 9fc8a021731c48699db10af44cad7f1e
+    P75882287: d5f80c5765a14a3cbc6e31c74bceab50
+    P3B592C54: 21e3dc2054e54bceaedecae0e66e6be6
+    P496C551A: 26f0f5d6b4484e8b8225ca41911be4bf
+    PB82BC254: 01cae935d1d645978dc828f23cbd7a90
+  ac61deec058b458cbb4756c3377e153b:
+    P31DC8631: 010b62fa493a48899bb6614f2d6b0049
+    P75882287: a2632d7231f044a2971a475478b85a88
+    P3B592C54: f55eec0e454e4c7b9a0197f43081743c
+    P496C551A: b0419021767c4c2babd12705ea251b03
+    PB82BC254: e4417357cf2b47f8a6721df0efc9538a
+  4d146085f0f744fd8318428201e7cbbe:
+    P31DC8631: 2279063f00c54c93bb3b7d06b5b52987
+    P75882287: 4739eaec59b8475ab0d3906ce11f6063
+    P3B592C54: 633ef02bc081468eae50fb72987a3691
+    P496C551A: 08808ed70964478ebd8d816517e5a21b
+    PB82BC254: 9184bdeb9bfc4e18b8cc24a380c858bb
+  c0a54bec66314bd7988d2b0f11198c9e:
+    P31DC8631: 38a003403adc4015971f25672866ae45
+    P75882287: 89f23b08f79c459b87cc74100f6a2862
+    P3B592C54: de86d49d08c140fcb481f09bd2d55f8f
+    P496C551A: cb73725c72fe4ffc933c92ef5ab1b1f9
+    PB82BC254: 41b1412127874fe4bacf15b1429ddbd3

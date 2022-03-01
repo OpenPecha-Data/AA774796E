@@ -1,0 +1,19 @@
+segment_sources:
+  P31DC8631:
+    type: origin_type
+    relation: translation
+    language: en
+  PB82BC254:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  658075e9d8654659b2661ec7e1a49c55:
+    P31DC8631: a225ff3d27b34eb788556ec4a2c20e4f
+    PB82BC254: a36efed40e054ed8aae40251331578f9
+  e3a88a996be042bd988e390b2b36e3b4:
+    P31DC8631: ee323cf2f5924061b4ebb3a465cfbbc5
+    PB82BC254: cffb8187f49743619e9476bb27e51962
+  2ad73ccab10942da9a4a9f19b665913f:
+    P31DC8631: aa96ddfa604449f6bbd357dfe288e2c4
+    PB82BC254: f286cd69a59f4f3db389c68c28b96acb
